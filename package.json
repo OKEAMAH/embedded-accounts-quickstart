@@ -18,7 +18,7 @@
     "next-themes": "^0.3.0",
     "react": "^18",
     "react-dom": "^18",
-    "viem": "2.8.6"
+    "viem": "2.17.3"
   },
   "devDependencies": {
     "@types/node": "^20",
