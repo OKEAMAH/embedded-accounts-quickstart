@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@alchemy/aa-accounts": "3.14.1",
-    "@alchemy/aa-alchemy": "3.14.1",
+    "@alchemy/aa-alchemy": "3.18.2",
     "@alchemy/aa-core": "3.12.3",
     "@tanstack/react-query": "5.28.9",
     "classnames": "^2.5.1",
